@@ -61,9 +61,6 @@ is_present = 'banana' in my_list  # Checks if 'banana' is in the list (True)
 
 # devops usecase of list
 
-
-### Use Case : Lists in DevOps
-
 **Scenario: Managing Deployment Scripts**
 
 Imagine you have a list of deployment scripts that need to be executed in sequence on multiple servers. Using a list helps you organize and manage these scripts efficiently.
